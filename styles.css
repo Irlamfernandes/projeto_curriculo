@@ -1,0 +1,28 @@
+img{width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: solid;}
+
+a{font-size: 20px;}
+
+h1{font-family: 'Times New Roman';
+text-align: center;
+font-size: 40px;
+color: white;
+background-color: black;
+width: 450px;
+border-radius: 40px;}
+
+body{background-color: #f2deb8;}
+
+.bio{font-size: 20px;}
+
+.escolar{font-size: 20px;}
+
+.trabalho{font-size: 20px;}
+
+.dados{font-size: 20px;}
+
+.link{font-size: 20px;}
+
+.objetivo2{font-size: 20px;}
