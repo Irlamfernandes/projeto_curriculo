@@ -1,19 +1,36 @@
 img{width: 200px;
     height: 200px;
-    border-radius: 100px;
-    border: solid;}
+    border: solid;
+    margin: auto;
+    display: block;
+border-radius: 200px;}
 
 a{font-size: 20px;}
 
-h1{font-family: 'Times New Roman';
-text-align: center;
-font-size: 40px;
-color: white;
-background-color: black;
-width: 450px;
-border-radius: 40px;}
+.topo{float: top;
+background-color: rgb(4, 100, 4);
+border: solid;
+width: 1407;}
 
-body{background-color: #f2deb8;}
+h1{font-family: 'Times New Roman';
+font-size: 50px;
+text-align: center;
+margin: auto;}
+
+.esquerdo{background-color: rgb(222, 247, 186);
+float: left;
+width: 350px;
+height: 692px;
+padding: 10px 10px 10px 10px;
+border: solid;
+margin: auto;}
+
+.direito{background-color: white;
+    float: right;
+    margin: auto;
+    border: solid;
+    padding: 10px 10px 10px 10px;
+    width: 1057px;}
 
 .bio{font-size: 20px;}
 
