@@ -8,7 +8,7 @@ border-radius: 200px;}
 a{font-size: 20px;}
 
 .topo{float: top;
-background-color: rgb(4, 100, 4);
+background-color: #aa744a;
 border: solid;
 width: 1407;}
 
@@ -17,13 +17,15 @@ font-size: 50px;
 text-align: center;
 margin: auto;}
 
-.esquerdo{background-color: rgb(222, 247, 186);
+.esquerdo{background-color: #e6aa7e;
 float: left;
 width: 350px;
 height: 692px;
 padding: 10px 10px 10px 10px;
 border: solid;
 margin: auto;}
+
+
 
 .direito{background-color: white;
     float: right;
